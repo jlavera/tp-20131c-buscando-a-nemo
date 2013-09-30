@@ -1,0 +1,10 @@
+Nombre=Level8-8
+ip=127.0.0.1
+puerto=3005
+# CajaX=[Nombre],[Simbolo],[Instancias],[PosX],[PosY]
+Caja1=[Calaveras, C, 1, 23, 3]
+Caja2=[Huesos, H, 1, 60, 20]
+Caja3=[Espinas, E, 1, 40, 10]
+orquestador=127.0.0.1:5050
+TiempoChequeoDeadlock=20
+Recovery=0

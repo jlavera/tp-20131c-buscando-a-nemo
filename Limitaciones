@@ -1,0 +1,8 @@
+Limitaciones:
+
+-No puede haber 2 Personajes con el mismo símbolo.
+-No puede haber 2 Niveles con el mismo nombre.
+-El nombre del nivel no puede tener más de 15 caaracteres.
+-No puede haber objetivos que sean numeros (devolvemos un 0 para marcar errores en personaje).
+-En el config de nivel, no pueden haber "CajaN" de mas de 6 chars (hasta 10 recursos)
+-Cuando inicia el orquestador, hay que mandarle como primer parámetro, su IP

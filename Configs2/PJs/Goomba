@@ -1,0 +1,6 @@
+nombre=Goomba
+simbolo=&
+planDeNiveles=[DeadLock]
+obj[DeadLock]=[Z,H]
+vidas=2
+orquestador=127.0.0.1:5050

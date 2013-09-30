@@ -1,0 +1,9 @@
+Nombre=Level2-1
+ip=127.0.0.1
+puerto=3003
+# CajaX=[Nombre],[Simbolo],[Instancias],[PosX],[PosY]
+Caja1=[Chocolates, C, 8, 43, 19]
+Caja2=[Flores, F, 5, 19, 15]
+orquestador=127.0.0.1:5050
+TiempoChequeoDeadlock=20
+Recovery=1

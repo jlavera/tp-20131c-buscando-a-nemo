@@ -1,0 +1,10 @@
+Nombre=Level3-1
+ip=127.0.0.1
+puerto=3004
+# CajaX=[Nombre],[Simbolo],[Instancias],[PosX],[PosY]
+Caja1=[Bombas, O, 2, 9, 5]
+Caja2=[Telefonos, T, 3, 20, 15]
+Caja3=[Relojes, R, 2, 17, 3]
+orquestador=127.0.0.1:5050
+TiempoChequeoDeadlock=20
+Recovery=1

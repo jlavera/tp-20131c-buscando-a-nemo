@@ -1,0 +1,11 @@
+Nombre=DeadLock
+ip=127.0.0.1
+puerto=3005
+# CajaX=[Nombre],[Simbolo],[Instancias],[PosX],[PosY]
+Caja1=[Hongos, H, 1, 10, 10]
+Caja2=[Monedas, M, 1, 18, 2]
+Caja3=[Manzanas, Z, 1, 2, 18]
+Caja4=[Bananas, B, 1, 8, 12]
+orquestador=127.0.0.1:5050
+TiempoChequeoDeadlock=5
+Recovery=0

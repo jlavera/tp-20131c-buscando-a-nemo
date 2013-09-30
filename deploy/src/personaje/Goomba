@@ -1,0 +1,8 @@
+nombre=Goomba
+simbolo=$
+planDeNiveles=[Level1-1,Level3-1,Level8-8]
+obj[Level1-1]=[H,V,F,H,V,H]
+obj[Level3-1]=[O,R,O]
+obj[Level8-8]=[E,C,H]
+vidas=3
+orquestador=127.0.0.1:5050
